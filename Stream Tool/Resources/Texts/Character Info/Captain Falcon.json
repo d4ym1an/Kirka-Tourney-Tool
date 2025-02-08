@@ -1,13 +1,13 @@
 {
     "skinList": [
-        "Captain Falcon (1)",
-        "Captain Falcon (2)",
-        "Captain Falcon (3)",
-        "Captain Falcon (4)",
-        "Captain Falcon (5)",
-        "Captain Falcon (6)",
-        "Captain Falcon (7)",
-        "Captain Falcon (8)"
+        "Dragon-render",
+        "Elf-render",
+        "Elizabeth-render",
+        "Ellie-render",
+        "Elmoo-render",
+        "Emoo-render",
+        "Enderman-render",
+        "Endless-render"
     ],
     "Left": {
         "x": -75,

@@ -1,13 +1,13 @@
 {
     "skinList": [
-        "Chrom (1)",
-        "Chrom (2)",
-        "Chrom (3)",
-        "Chrom (4)",
-        "Chrom (5)",
-        "Chrom (6)",
-        "Chrom (7)",
-        "Chrom (8)"
+        "Error-render",
+        "Esto-render",
+        "Fanny-render",
+        "Ferrum-render",
+        "Fleur-render",
+        "Foolish-render",
+        "Forunado-render",
+        "Frosty-render"
     ],
     "Left": {
         "x": -75,
