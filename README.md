@@ -1,6 +1,7 @@
 ![preview](https://media.discordapp.net/attachments/799303953912168469/945058909520035880/unknown.png)
 
-# Ultimate-Stream-Tool
+# Kirka-Tourney-Tool
+(Tool Forked From [Ultimate-Stream-Tool](https://github.com/pokerobybeto/Ultimate-Stream-Tool))
 *Also available for [Melee](https://github.com/Readek/Melee-Stream-Tool), [Rivals of Aether](https://github.com/Readek/RoA-Stream-Tool) and [Rushdown Revolt](https://github.com/Readek/Rushdown-Revolt-Stream-Tool)!*
 
 So you're interested in doing Smash Ultimate streams, huh? Luckily for you, with this tool you'll be able to update all the variables you need for the provided overlays with the provided GUI, and easily customize the overlays to make them your own! 
