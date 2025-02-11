@@ -71,6 +71,5 @@ The "Ultimate Stream Tool" was made by [beto](https://twitter.com/pokeroby_beto)
 
 This is an upgraded version of the [Melee Stream Tool](https://github.com/Readek/Melee-Stream-Tool) made by [Readek](https://twitter.com/Readeku).
 
-All the renders were taken from [CarrySherriff](https://github.com/SheriffCarry-backup), [Render](https://github.com/SheriffCarry-backup/KirkaSkins), [Cuphead stock icon](https://twitter.com/altermentality/status/1009894947762233344)
-
+All the renders were taken from [CarrySherriff](https://github.com/SheriffCarry-backup) and his [Renders](https://github.com/SheriffCarry-backup/KirkaSkins)
 For any feedback you can contact me via Discord (@d4ym1an).
