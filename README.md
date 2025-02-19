@@ -1,13 +1,12 @@
 ![preview](https://media.discordapp.net/attachments/799303953912168469/945058909520035880/unknown.png)
 
-# Ultimate-Stream-Tool
+# Kirka-Tourney-Tool
+(Tool Forked From [Ultimate-Stream-Tool](https://github.com/pokerobybeto/Ultimate-Stream-Tool))
 *Also available for [Melee](https://github.com/Readek/Melee-Stream-Tool), [Rivals of Aether](https://github.com/Readek/RoA-Stream-Tool) and [Rushdown Revolt](https://github.com/Readek/Rushdown-Revolt-Stream-Tool)!*
 
 So you're interested in doing Smash Ultimate streams, huh? Luckily for you, with this tool you'll be able to update all the variables you need for the provided overlays with the provided GUI, and easily customize the overlays to make them your own! 
 
-The tool is free, but if you want to keep supporting the project and other Smash and non related stuff, you can donate me something on [Paypal](https://www.paypal.me/robertof2712). Thanks in advance!
-
-If you are also interested in adapting your layout with the stream tool or having a brand new one, lucky for you, I'm open for commisions! Contact me on Twitter [@pokeroby_beto](https://twitter.com/pokeroby_beto).
+The tool is free, but if you want to support the orignal creator, you can donate something on [Paypal](https://www.paypal.me/robertof2712). Thanks in advance!
 
 ---
 
@@ -72,6 +71,5 @@ The "Ultimate Stream Tool" was made by [beto](https://twitter.com/pokeroby_beto)
 
 This is an upgraded version of the [Melee Stream Tool](https://github.com/Readek/Melee-Stream-Tool) made by [Readek](https://twitter.com/Readeku).
 
-All the renders were taken from [The Spriters Resource](https://www.spriters-resource.com/nintendo_switch/supersmashbrosultimate/), [Cuphead render](https://www.deviantart.com/unbecomingname/art/Cuphead-Smash-Ultimate-Fan-Render-828617953), [Cuphead stock icon](https://twitter.com/altermentality/status/1009894947762233344), [Sans render](https://www.deviantart.com/unbecomingname/art/Sans-Smash-Ultimate-Fan-Render-812380081), [Sans stock icon](https://smashboards.com/members/haunterspencer.403470/), [Vs screen template](https://www.deviantart.com/lkgamingart/art/SSBU-VS-Splash-Screen-Template-2P-796548756)
-
-For any feedback you can fill [this form](https://forms.gle/2TLLcnd1nxtHohZs5) or contact [beto](https://twitter.com/pokeroby_beto) on Twitter.
+All the renders were taken from [CarrySherriff](https://github.com/SheriffCarry-backup) and his [Renders](https://github.com/SheriffCarry-backup/KirkaSkins)
+For any feedback you can contact me via Discord (@d4ym1an).
