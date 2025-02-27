@@ -1,3 +1,4 @@
+# NOT DONE
 ![preview](https://media.discordapp.net/attachments/799303953912168469/945058909520035880/unknown.png)
 
 # Kirka-Tourney-Tool
